@@ -1,9 +1,9 @@
-react-hot-boilerplate
+react-demo
 =====================
 
-The minimal dev environment to enable live-editing React components.
+React基础运行环境
 
-### Usage
+### 用法
 
 ```
 npm install
