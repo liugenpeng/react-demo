@@ -20,7 +20,8 @@
     "style-loader": "",
     "webpack": "^1.12.2",
     "webpack-dev-server": "^1.12.1",
-    "lodash":""
+    "lodash":"",
+    "react-lifecycle":""
   },
   "dependencies": {
      "babel-runtime": "^5.8.20",
